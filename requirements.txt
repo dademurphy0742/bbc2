@@ -1,5 +1,3 @@
 rich
 typer
-subfinder
-httpx
-nmap
+requests
