@@ -1,2 +1,5 @@
 rich
 typer
+subfinder
+httpx
+nmap
